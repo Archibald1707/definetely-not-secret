@@ -1,1 +1,3 @@
-test
+# Best meme of the year
+Bro, this **totally ordinary** picture of sponge bob being gangster is so hip! I'll save it here for the future generations, with the best fitting music...
+![sponge_gangster](https://github.com/Archibald1707/definetely-not-secret/blob/main/spongebob_gangster.png)
